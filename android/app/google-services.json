@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "534314797707",
+    "project_id": "reserve1st",
+    "storage_bucket": "reserve1st.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:534314797707:android:2751c8ac5555644899628e",
+        "android_client_info": {
+          "package_name": "com.furationtechsolutions.reserve1st"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7lljaUfsqirkTa9KsJOucw_PMv5UagSk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
